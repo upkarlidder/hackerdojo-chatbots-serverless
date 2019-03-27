@@ -22,7 +22,9 @@ In this talk, you will learn the anatomy of a good chatbot and how the various p
   - [II - Empower your chatbot and add a personality](https://www.crowdcast.io/e/empower-your-chatbot-and)
   - [III - Deploy your bot to slack and other social channels](https://www.crowdcast.io/e/deploy-your-bot-to-slack)
   - [IV - Continuously improve your Watson Bot using analytics and metrics](https://www.crowdcast.io/e/continuously-improve) 
+* [Ten tips to make a better bot and a discussion with IBM Developer Advocate Upkar Lidder](https://dev.to/ibmdeveloper/a-conversation-on-chatbots-with-ibm-developer-advocates-bn5)
 * [IBM Cloud Sign up](http://bit.ly/ibm-signup)
 * [IBM Meetup](http://bit.ly/ibm-meetup)
+* [IBM Watson Assistant Documentation](https://console.bluemix.net/docs/services/assistant/getting-started.html#getting-started)
 ## About the speaker
 Upkar Lidder is a Full Stack Developer and Data Wrangler with strong experience in JavaScript and Python. Upkar has worked in the tech industry in a variety of roles like QA engineer, software engineer, python data analyst and developer advocate over the past decade. He can be seen speaking at various conferences and participating in local tech groups and meetups (like this one!). He is currently curious about magic behind Machine Learning and Deep Learning. Upkar went to graduate school in Canada and currently resides in the United States.
